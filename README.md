@@ -1,4 +1,4 @@
-# Hi, I'm SrikEerthi Bandi 👋
+# Hi, I'm Srikeerthi Bandi 👋
 
 🎓 B.Tech in Computer Science Engineering (AI & ML) | Dayananda Sagar University  
 💡 Passionate about solving real-world problems using Machine Learning and Deep Learning  
