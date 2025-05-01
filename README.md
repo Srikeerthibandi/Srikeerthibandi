@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm SrikEerthi Bandi 👋
 
-<!--
-**Srikeerthibandi/Srikeerthibandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science Engineering (AI & ML) | Dayananda Sagar University  
+💡 Passionate about solving real-world problems using Machine Learning and Deep Learning  
+🔍 Interests: Computer Vision | Natural Language Processing | LLMs | AI Research  
+💼 Currently: Cybersecurity Technical Support Engineer Intern @ Cyware Labs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+- **Languages:** Python, Java, SQL  
+- **Frameworks:** TensorFlow, PyTorch, Scikit-learn  
+- **Tools:** FastAPI, Git, Docker, MongoDB  
+- **DevOps & Cloud:** AWS (Basics)  
+- **Other:** Data Structures & Algorithms
+
+
+---
+
+### 📫 Contact
+
+- 📍 Bangalore, India  
+- 📧 srikeerthibandi@gmail.com  
+
+
